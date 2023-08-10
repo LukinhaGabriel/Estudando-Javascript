@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(120, 203, 206);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    
+    
+}
+#secao{
+    background-color: rgb(255, 255, 255);
+    padding-top: 19px;
+    padding-left: 15px;
+    border-radius: 6px;
+    font-size: 15px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.199);
+}
+#titulo{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding-bottom: 15px; 
+    
+}
+
+input, select, button{
+    margin-bottom: 15px;
+   
+    
+}
+
+footer{
+        color: white;
+        font-size: 15px;
+        text-align: center;
+        font-style: italic;
+        padding-top: 15px;
+        
+}
+
+h1{
+    font-size: 40px;
+}

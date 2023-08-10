@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(150, 53, 214);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+header{
+    text-align: center;
+}
+footer{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    font-style: italic;
+    padding-top: 15px;
+}
+#secao{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding-top: 19px;
+    padding-bottom: 15px; 
+    padding-left: 15px;
+    border-radius: 6px;
+    font-size: 15px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.199);
+}
